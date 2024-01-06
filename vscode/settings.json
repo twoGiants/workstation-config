@@ -24,6 +24,7 @@
   "editor.accessibilitySupport": "off",
   "editor.minimap.enabled": false,
   "editor.inlineSuggest.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
 
   "workbench.colorTheme": "Default Dark+",
   "workbench.preferredDarkColorTheme": "Default Light+",
